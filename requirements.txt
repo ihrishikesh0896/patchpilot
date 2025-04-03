@@ -1,0 +1,12 @@
+bandit==1.8.3
+gitdb==4.0.12
+GitPython==3.1.44
+markdown-it-py==3.0.0
+mdurl==0.1.2
+pbr==6.1.1
+Pygments==2.19.1
+PyYAML==6.0.2
+rich==14.0.0
+setuptools==78.1.0
+smmap==5.0.2
+stevedore==5.4.1
